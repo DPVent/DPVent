@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### I’m currently learning unity
-<!--
+####⚡ Fun fact: I like playing souls-like and fighting games.
+<!---
 **DPVent/DPVent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
